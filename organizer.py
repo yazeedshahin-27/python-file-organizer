@@ -1,3 +1,8 @@
+"""
+Python File Organizer
+Author: Yazeed Shahin
+Description: Organizes files into folders based on file extension.
+"""
 import os
 import shutil
 
