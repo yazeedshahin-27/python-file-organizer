@@ -16,3 +16,21 @@ Technologies
 Python
 os module
 shutil module
+
+## Project Purpose
+
+This project was created to practice Python automation and file system operations.
+It demonstrates how Python can be used to organize directories efficiently and reduce manual work.
+
+## Example
+
+Before running the script:
+- files_to_organize/
+  - photo.jpg
+  - report.pdf
+  - code.py
+
+After running the script:
+- Images/photo.jpg
+- Documents/report.pdf
+- Code/code.py
